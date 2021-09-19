@@ -1,0 +1,18 @@
+.assignment {
+  width: calc(70vw + 30px);
+  max-width: 600px;
+  padding: 40px;
+  border: 1px solid #acacac;
+  border-radius: 15px;
+  box-shadow: 0 0 50px #777;
+}
+
+.assignment > h3 {
+  width: 100%;
+  text-align: center !important;
+  margin-bottom: 20px;
+}
+
+.assignment > button {
+  width: 100%;
+}
