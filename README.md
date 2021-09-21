@@ -1,3 +1,8 @@
+Deployed @ https://ps-devdays-week3.netlify.app/
+
+Backend @ https://ps-devdays-week3.herokuapp.com/
+Backend Github: https://github.com/PSCoder10462/devdays-week3-backend/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
